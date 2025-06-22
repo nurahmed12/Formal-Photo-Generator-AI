@@ -7,9 +7,9 @@
 
 ## 🌟 What is This?
 
-This Colab notebook runs [Fooocus](https://github.com/lllyasviel/Fooocus), a cutting-edge AI tool that can:
+This Colab notebook runs [Fooocus](https://github.com/lllyasviel/Fooocus), an amazing AI tool that can:
 
-- 🎨 Turn regular photos into professional-looking formal portraits
+- 🎨 Turn regular photos into professional-looking formal photos
 - 🧠 Automatically detect and preserve key facial features
 - 🧥 Generate hyper-realistic formal attire (suits, shirts, ties)
 - 🌆 Replace backgrounds with studio-style settings
@@ -33,8 +33,8 @@ All of this happens inside **Google Colab** with **no need for local setup**.
 ## ▶️ How to Use
 
 1. **Open the Colab notebook**:  
-   [Click here to launch the notebook in Colab](https://colab.research.google.com/github/your_username/your_repo/blob/main/fooocus_colab.ipynb)  
-   *(Replace with your actual GitHub link)*
+   [Click here to launch the notebook in Colab](https://colab.research.google.com/github/nurahmed12/Formal-Photo-Generator-AI/blob/main/fooocus_colab.ipynb)  
+
 
 2. **Run the cells one by one**  
    It will:
